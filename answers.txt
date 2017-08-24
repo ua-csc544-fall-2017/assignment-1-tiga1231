@@ -1,0 +1,36 @@
+1. Because I love visualization.
+
+2. Principles and techniques in vis.
+
+3. python, javascript, R, c, c++, java, php.
+
+4. python
+
+5. Yes. The favorite vis I created was an illustration of a property in fourier transform. https://tiga1231.github.io/images/3.gif
+6. The CoGe project has all kinds of genetic data from raw DNA sequences to ks and SNPs data. Each comparison between 2 genomes has thousands of rows of data and we want to derive affinity among multiple genomes from pairwise comparison. We tried building kernels between two genomes and used dimensionality reductions to visualize high dimensional relation measurements.
+
+7. Stop-and-Frisk decline in New York City. Through showing the exact location of stops in two maps representing two years side by side, people can immediately tell a drop of the number of stops. by plotting stop rates through out years when hovering over a district, people can see the distribution of ethnic groups being stopped also changed. It is a simple, intuitive illustration of the effectiveness of the new policy. Intuitiveness is important when the audience is general public because not all the audience want to spend time learning the science of reading charts before digesting the actual information/message that a plot is trying to convey.
+
+8. 
+http://www.ilovezz.com/bbs/data/attachment/forum/201510/05/222315n4x11za4zcanyn09.jpg
+It was a joke but telling some reality. 
+The chinese says: 
+
+'(As an visual designer) Today I told my customer that it is ugly to have red and blue together and he did not believe it, so I made this.'
+
+I agree that most people do not have the intuition of doing good/right design. That is why there is a science in it.
+
+9. 60%
+
+10. 65%
+
+11. I know the basic use of git but have not been able appreciate it a lot.
+
+12. I try to use it for most of my code. I have read first 3 chapters of Scott Chacon's book Pro Git.
+
+13. I have just started to work with multiple people on github (Synteny-vis)
+
+14. I dumped the table of all math and cs courses this semester and working on an optimum class schedule based on my own interest:
+https://ibb.co/bt75XQ
+I wish I have Hermione's time machine.
+
